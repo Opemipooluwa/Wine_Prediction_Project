@@ -1,0 +1,6 @@
+Name: Erinson Opemipooluwa Morenikeji
+Matric Number: 22CD032137
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib (.pkl)
+Hosted Web GUI Link:https://wine-prediction-project-7iq8.onrender.com
+GitHub Repository:https://github.com/Opemipooluwa/Wine_Prediction_Project
